@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "soundcloudflare",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Rap battles and DDoS attacks",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "mtwtfss",
   "dependencies": {
     "gatsby": "^2.21.37",
     "gatsby-image": "^2.4.4",
@@ -19,6 +19,7 @@
     "react-helmet": "^6.0.0"
   },
   "devDependencies": {
+    "gh-pages": "^3.0.0",
     "prettier": "2.0.5"
   },
   "keywords": [
@@ -28,6 +29,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "deploy": "gatsby build && gh-pages -d public",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",

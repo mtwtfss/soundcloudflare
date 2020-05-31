@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),c=a("Bl7J"),i=a("vrFN"),r=a("wKoh"),l=a.n(r);t.default=function(){return o.a.createElement(c.a,null,o.a.createElement(i.a,{title:"Home"}),o.a.createElement("div",{style:{maxWidth:"300px",marginBottom:"1.45rem"}},o.a.createElement("img",{src:l.a,alt:"QooBee Agapi"})))}},wKoh:function(e,t,a){e.exports=a.p+"static/qoobee-29099e7922e89d42bc13373f24a24a1d.gif"}}]);
+//# sourceMappingURL=component---src-pages-index-js-0b636ba79a929b31a2ed.js.map

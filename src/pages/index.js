@@ -27,6 +27,14 @@ const IndexPage = () => (
       </ul>
     </div>
     <Testimonials />
+    <div>
+      <h3>Try it today</h3>
+      <ul style={{listStyleType: `none` }}>
+        <li><h4 style={{ color: `#f50` }}>For early access email access@soundcloudflare.com</h4></li>
+        <li><h4 style={{ color: `#f50` }}>To upload a mixtape email fire@soundcloudflare.com</h4></li>
+        <li><h4 style={{ color: `#f50` }}>For faster service mail your local member of Congress</h4></li>
+      </ul>
+    </div>
   </Layout>
 )
 

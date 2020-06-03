@@ -8,7 +8,7 @@ function getTitle(defaultTitle) {
   if (num < 0.70) {
     return defaultTitle
   } else if (num < 0.85) {
-    return `Low bass and high availability`
+    return `Low bass; high availability`
   } else if (num < 0.95) {
     return `Dope beats on Kubernetes`
   } else {

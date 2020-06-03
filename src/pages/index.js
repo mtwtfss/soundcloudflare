@@ -30,8 +30,8 @@ const IndexPage = () => (
     <div>
       <h3>Try it today</h3>
       <ul style={{listStyleType: `none` }}>
-        <li><h4 style={{ color: `#f50` }}>For early access email access@soundcloudflare.com</h4></li>
-        <li><h4 style={{ color: `#f50` }}>To upload a mixtape email fire@soundcloudflare.com</h4></li>
+        <li><h4 style={{ color: `#f50` }}>For early access email <a href="mailto:waitlist@souncloudflare.com?subject=Sign me up!" style={{ color: `#f50`, textDecoration: `none` }}>waitlist@soundcloudflare.com</a></h4></li>
+        <li><h4 style={{ color: `#f50` }}>To upload a mixtape email <a href="mailto:fire@souncloudflare.com?subject=I spit hot fire!" style={{ color: `#f50`, textDecoration: `none` }}>fire@soundcloudflare.com</a></h4></li>
         <li><h4 style={{ color: `#f50` }}>For faster service mail your local member of Congress</h4></li>
       </ul>
     </div>
